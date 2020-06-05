@@ -307,6 +307,12 @@ li {
     transform: rotate(-45deg);
 }
 
+p i {
+    font-size: 5rem;
+    padding: 7px;
+    width: 7.6rem;
+}
+
 .portfolio-item {
     display: flex;
     align-items: center;
